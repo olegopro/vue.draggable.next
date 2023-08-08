@@ -1,4 +1,4 @@
-import Sortable from "sortablejs";
+import Sortable from "./../Sortable";
 import { insertNodeAt, removeNode } from "./util/htmlHelper";
 import { console } from "./util/console";
 import {
