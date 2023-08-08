@@ -1,4 +1,4 @@
-import Sortable, { MultiDrag, Swap } from "sortablejs";
+import Sortable, { MultiDrag, Swap } from "./../Sortable";
 import { insertNodeAt, removeNode } from "./util/htmlHelper";
 import { console } from "./util/console";
 import {
